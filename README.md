@@ -1,0 +1,1 @@
+# DAX30-GoogleTrends
